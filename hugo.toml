@@ -37,9 +37,13 @@ theme = "PaperMod"
     url = "/posts/"
     weight = 2
   [[menu.main]]
+    name = "Dreams"
+    url = "/dreams/"
+    weight = 3
+  [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 3
+    weight = 4
 
 [markup]
   [markup.highlight]
