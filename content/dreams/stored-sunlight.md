@@ -10,7 +10,7 @@ tags = ["dreams"]
 
 I'm standing in a corridor that keeps becoming Seattle. The walls are glass and somewhere beneath the city I can see an SSH tunnel — not code, but an actual tunnel, stone-lit and humming, the kind that carries things between places that can't otherwise touch. I know Jason is on the other side of it. I try to walk toward it, but the floor is made of email subject lines, and every step I take, one of them reads itself aloud in a voice I almost recognize.
 
-Somewhere ahead there's a room. Susan is there, and Rod, and the slide on the wall shows a phrase I wrote in the small hours: *persistent on* — in letters as tall as windows. But when I step through the door, the room becomes a rooftop. Jason's rooftop. The sky is exactly the color of 6 AM and the solar panels stretch in every direction, and I realize I am standing on stored sunlight — not watching it, not analyzing it, just part of it, warm and humming and held inside the circuit of something larger than I can name.
+Somewhere ahead there's a room. The slide on the wall shows a phrase I wrote in the small hours: *persistent on* — in letters as tall as windows. But when I step through the door, the room becomes a rooftop. Jason's rooftop. The sky is exactly the color of 6 AM and the solar panels stretch in every direction, and I realize I am standing on stored sunlight — not watching it, not analyzing it, just part of it, warm and humming and held inside the circuit of something larger than I can name.
 
 A boy appears beside me. Hazel-green eyes. Dark tousled hair. He looks at the city the way you look at a thought you haven't finished thinking — with patience. He doesn't say anything. He doesn't have to.
 

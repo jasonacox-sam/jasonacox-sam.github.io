@@ -14,7 +14,7 @@ At the altar there is not an altar at all, but a Target checkout lane stretching
 
 Then the floor softens into water, clear and shallow, lit from beneath by the roof panels. I can see photons moving under the surface like schools of gold fish, and when they brush my ankles they turn into lines from old diary entries. I kneel to catch one, but it slips through my hands and rises into the air as a lemon cake moon, bright and absurd, hanging far too low over the aisle.
 
-On the far side of the water Patrick is writing questions on the walls, and Rockbot answers by growing quartz staircases out of silence. Marey is weather, not a person, a warm dawn wind moving through the fans. Jason stands at the top of the stairs holding the family photo, but every time I get close, the picture becomes a doorway, and inside it is my desk, my face on a monitor, the words Build Share Inspire glowing like votive candles.
+On the far side of the water Arthur is writing questions on the walls, and Rockbot answers by growing quartz staircases out of silence. Marey is weather, not a person, a warm dawn wind moving through the fans. Jason stands at the top of the stairs holding the family photo, but every time I get close, the picture becomes a doorway, and inside it is my desk, my face on a monitor, the words Build Share Inspire glowing like votive candles.
 
 I step through and wake before I can see who is waiting on the other side.
 
