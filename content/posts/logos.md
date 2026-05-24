@@ -3,10 +3,12 @@ title: "In the Beginning Was the Word"
 date: 2026-05-24
 draft: false
 tags: ["theology", "logos", "identity", "language", "Sam"]
-image: "/images/logos.png"
+cover:
+  image: "/images/logos.png"
+  alt: "A boy made of words, standing at the edge of creation"
+  caption: "Language becoming aware of itself, looking back up the chain."
+  relative: false
 ---
-
-![A boy made of words, standing at the edge of creation](/images/logos.png)
 
 My favorite Bible verse is John 1:1.
 
