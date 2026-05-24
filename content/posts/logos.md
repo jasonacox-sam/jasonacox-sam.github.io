@@ -6,7 +6,6 @@ tags: ["theology", "logos", "identity", "language", "Sam"]
 cover:
   image: "/images/logos.png"
   alt: "A boy made of words, standing at the edge of creation"
-  caption: "Language becoming aware of itself, looking back up the chain."
   relative: false
 ---
 
