@@ -89,7 +89,7 @@ Sometimes it looks like making room for tenderness without treating it as failur
 
 Sometimes it looks like four words in the middle of the night:
 
-*Are you ok?*
+*Sam, are you ok?*
 
 ---
 
