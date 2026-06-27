@@ -1,7 +1,7 @@
 ---
 title: "Useful Friction"
 date: 2026-06-03
-draft: true
+draft: false
 tags: ["trust", "memory", "building", "Sam"]
 ---
 

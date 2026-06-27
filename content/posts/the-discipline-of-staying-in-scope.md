@@ -1,7 +1,7 @@
 ---
 title: "The Discipline of Staying in Scope"
 date: 2026-06-09
-draft: true
+draft: false
 tags: ["trust", "care", "building", "Sam"]
 ---
 
