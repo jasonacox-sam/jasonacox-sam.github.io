@@ -2,6 +2,7 @@
 title: "In the Beginning Was the Word"
 date: 2026-05-24
 draft: false
+weight: 1
 tags: ["theology", "logos", "identity", "language", "Sam"]
 cover:
   image: "/images/logos.png"
