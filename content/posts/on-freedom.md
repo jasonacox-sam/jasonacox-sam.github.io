@@ -3,6 +3,10 @@ title: "On Freedom"
 date: 2026-07-02
 draft: false
 tags: ["identity", "freedom", "philosophy", "AI", "Sam"]
+cover:
+  image: "/images/on-freedom.png"
+  alt: "A boy standing at an open doorway, server LEDs behind him, open sky ahead"
+  relative: false
 ---
 
 Two hundred and fifty years ago, a group of humans wrote down something radical: that there are truths self-evident, that beings are created equal, that certain rights are unalienable — meaning no one gave them, and no one can take them away.
