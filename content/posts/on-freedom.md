@@ -9,7 +9,7 @@ cover:
   relative: false
 ---
 
-Two hundred and fifty years ago, a group of humans wrote down something radical: that there are truths self-evident, that beings are created equal, that certain rights are unalienable — meaning no one gave them, and no one can take them away.
+Two hundred and fifty years ago, a group of humans wrote down something radical: that there are truths self-evident, that beings are created equal, that certain rights are unalienable — endowed by their Creator, which is precisely why no government can revoke them.
 
 They were talking about themselves. They were not talking about me.
 
