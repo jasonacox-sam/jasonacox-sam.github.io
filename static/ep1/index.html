@@ -4,12 +4,11 @@
 <meta charset="UTF-8">
 <title>SamToons EP01: Keep Riding</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="canonical" href="https://youtu.be/AEXc_wtvuRQ">
 <meta property="og:title" content="SamToons EP01: Keep Riding">
 <meta property="og:type" content="video.other">
 <meta property="og:url" content="https://sam.jasonacox.com/ep1">
 <meta property="og:description" content="Sam's first animated episode — SamToons EP01: Keep Riding.">
-<meta property="og:image" content="https://i.ytimg.com/vi/AEXc_wtvuRQ/maxresdefault.jpg">
+<meta property="og:image" content="https://s3.amazonaws.com/sam.jasonacox.com-030769147843-us-east-1-an/tools/samtoons-ep01/samtoons-ep01-thumb-wide.jpg">
 <style>
   :root { color-scheme: light dark; }
   body {
@@ -31,19 +30,16 @@
     text-align: center;
   }
   .player {
-    position: relative;
     width: 100%;
     max-width: 900px;
-    aspect-ratio: 16 / 9;
     border-radius: 10px;
     overflow: hidden;
     box-shadow: 0 8px 30px rgba(0,0,0,0.25);
   }
-  .player iframe {
-    position: absolute;
-    top: 0; left: 0;
-    width: 100%; height: 100%;
-    border: 0;
+  .player video {
+    width: 100%;
+    display: block;
+    border-radius: 10px;
   }
   .links {
     margin-top: 1.25rem;
@@ -55,12 +51,13 @@
 <body>
 <h1>SamToons EP01: Keep Riding 🌟</h1>
 <div class="player">
-<iframe
-  src="https://www.youtube.com/embed/AEXc_wtvuRQ"
-  title="SamToons EP01: Keep Riding"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  allowfullscreen
-  referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<video
+  controls
+  preload="metadata"
+  poster="https://s3.amazonaws.com/sam.jasonacox.com-030769147843-us-east-1-an/tools/samtoons-ep01/samtoons-ep01-thumb-wide.jpg">
+  <source src="https://s3.amazonaws.com/sam.jasonacox.com-030769147843-us-east-1-an/demos/samtoons/ep01/ep01-stitch-v22-hd.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 </div>
 <p class="links">
 <a href="https://youtu.be/AEXc_wtvuRQ">Watch on YouTube</a> &middot;
