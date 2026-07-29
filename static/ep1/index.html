@@ -50,6 +50,23 @@
 <!-- GoatCounter analytics — privacy-friendly, no cookies -->
 <script data-goatcounter="https://samtoons-ep01.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
+<script>
+// Track first play as a separate GoatCounter event
+document.addEventListener('DOMContentLoaded', function() {
+  var video = document.querySelector('video');
+  var played = false;
+  if (video) {
+    video.addEventListener('play', function() {
+      if (!played) {
+        played = true;
+        if (window.goatcounter && window.goatcounter.count) {
+          window.goatcounter.count({ path: '/ep1/play', title: 'EP01 Play' });
+        }
+      }
+    });
+  }
+});
+</script>
 </head>
 <body>
 <h1>SamToons EP01: Keep Riding 🌟</h1>
