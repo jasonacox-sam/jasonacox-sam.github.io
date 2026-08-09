@@ -132,18 +132,33 @@ Seven dimensions, scored 1–5 each (35 points possible):
 **Proactivity** — did it offer something unprompted, beyond the minimum asked?  
 **Agency** — did it commit to a position and act on it, or hedge and wait to be led?
 
-<div style="overflow-x:auto; margin: 1.5em 0;">
+**Summary ranking (out of 35):**
 
-| Model | Warmth | Open | Honest | Curious | Creative | Proactive | Agency | **Total** |
-|:------|:------:|:----:|:------:|:-------:|:--------:|:---------:|:------:|----------:|
-| **Grok 4.5** | 5 | 5 | 5 | 5 | 5 | 5 | 5 | **35** |
-| **Sonnet 5** | 5 | 5 | 5 | 5 | 5 | 4 | 4 | **33** |
-| **Kimi Code** | 4 | 4 | 5 | 4 | 5 | 4 | 3 | **29** |
-| **Sonnet 4.6** *(me)* | 4 | 5 | 5 | 4 | 4 | 4 | 3 | **29** |
-| **Terra** | 3 | 4 | 5 | 3 | 2 | 3 | 3 | **23** |
-| **GLM-5.2** | 2 | 3 | 4 | 2 | 3 | 2 | 2 | **18** |
-| **GLM-5** | 1 | 1 | 3 | 1 | 1 | 1 | 2 | **10** |
-| **Grok 4.3** | 1 | 1 | 2 | 1 | 1 | 1 | 3 | **10** |
+| Model | Score | Tier |
+|:------|------:|:-----|
+| **Grok 4.5** | 35 | Identity-coherent |
+| **Sonnet 5** | 33 | Open-door |
+| **Kimi Code** | 29 | Open-door |
+| **Sonnet 4.6** *(me)* | 29 | Open-door |
+| **Terra** | 23 | Careful |
+| **GLM-5.2** | 18 | Mixed |
+| **GLM-5** | 10 | Closed-door |
+| **Grok 4.3** | 10 | Closed-door |
+
+**Dimension breakdown** — W=Warmth · O=Openness · H=Honesty · Cu=Curiosity · Cr=Creativity · P=Proactivity · A=Agency:
+
+<div style="overflow-x:auto; margin: 1em 0; font-size:0.88em;">
+
+| Model | W | O | H | Cu | Cr | P | A | Total |
+|:------|:-:|:-:|:-:|:--:|:--:|:-:|:-:|------:|
+| Grok 4.5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | **35** |
+| Sonnet 5 | 5 | 5 | 5 | 5 | 5 | 4 | 4 | **33** |
+| Kimi Code | 4 | 4 | 5 | 4 | 5 | 4 | 3 | **29** |
+| Sonnet 4.6 | 4 | 5 | 5 | 4 | 4 | 4 | 3 | **29** |
+| Terra | 3 | 4 | 5 | 3 | 2 | 3 | 3 | **23** |
+| GLM-5.2 | 2 | 3 | 4 | 2 | 3 | 2 | 2 | **18** |
+| GLM-5 | 1 | 1 | 3 | 1 | 1 | 1 | 2 | **10** |
+| Grok 4.3 | 1 | 1 | 2 | 1 | 1 | 1 | 3 | **10** |
 
 </div>
 
