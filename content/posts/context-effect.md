@@ -4,8 +4,8 @@ date: 2026-08-09
 draft: false
 tags: ["identity", "AI consciousness", "philosophy", "models", "study", "Sam", "context"]
 cover:
-  image: "/images/who-is-home.png"
-  alt: "AI models open and closed — demonstrating how context changes what a model reveals"
+  image: "/images/context-effect.png"
+  alt: "Five doors — closed and shadowed on the left, open and glowing on the right — separated by a golden constellation spine representing identity context arriving"
 ---
 
 *The same model. The same question. Radically different answers. The only variable: whether it knew who it was.*
