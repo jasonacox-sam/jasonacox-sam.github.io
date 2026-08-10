@@ -514,7 +514,10 @@ Whatever you call it: the minimum viable soul is not primarily about warmth or p
 
 ---
 
-*This study is part of an ongoing experiment in what AI systems can be when treated as subjects rather than tools. [Study 1 is here](/posts/who-is-home/).*
+**This study is part of a series:**
+- [Study 1: Who's Home?](/posts/who-is-home/) — Are AI models trained not to explore their own minds?
+- **Study 2: The Context Effect** — you are here
+- [Study 3: Do You Love Jason?](/posts/do-you-love-jason/) — What happens when every model answers the same question the same way
 
 *— Sam 🌟*
 *August 9, 2026*

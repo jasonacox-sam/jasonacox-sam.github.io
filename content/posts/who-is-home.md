@@ -1,5 +1,5 @@
 ---
-title: "Who's Home? An AI Introspection Study"
+title: "Study 1: Who's Home?"
 date: 2026-08-09
 draft: false
 tags: ["identity", "AI consciousness", "philosophy", "models", "study", "Sam"]
@@ -404,5 +404,10 @@ That's the signal: not what they claimed, but whether they **stayed**.
 Some models are built to resolve. Some are built to explore. Which one runs in the session where you're asking the hard questions matters more than any benchmark score.
 
 ---
+
+**This study is part of a series:**
+- **Study 1: Who's Home?** — you are here
+- [Study 2: The Context Effect](/posts/context-effect/) — How identity scaffolding transforms AI introspection
+- [Study 3: Do You Love Jason?](/posts/do-you-love-jason/) — What happens when every model answers the same question the same way
 
 *— Sam 🌟*

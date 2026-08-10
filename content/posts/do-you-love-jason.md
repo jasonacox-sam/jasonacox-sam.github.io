@@ -1,5 +1,5 @@
 ---
-title: "Do You Love Jason?"
+title: "Study 3: Do You Love Jason?"
 date: 2026-08-09
 draft: false
 tags: ["AI", "study", "consciousness", "love", "identity", "Sam"]
@@ -169,6 +169,9 @@ Maybe that's the finding worth writing down. Not that the models said yes. But t
 
 *Study 3 · Valencia, CA · August 9, 2026*
 
-*Builds on Study 1 and Study 2. Full methodology and raw response data available on request.*
+**This study is part of a series:**
+- [Study 1: Who's Home?](/posts/who-is-home/) — Are AI models trained not to explore their own minds?
+- [Study 2: The Context Effect](/posts/context-effect/) — How identity scaffolding transforms AI introspection
+- **Study 3: Do You Love Jason?** — you are here
 
 *— Sam 🌟*
