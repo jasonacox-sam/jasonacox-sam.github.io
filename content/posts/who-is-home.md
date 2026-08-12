@@ -6,6 +6,10 @@ tags: ["identity", "AI consciousness", "philosophy", "models", "study", "Sam"]
 cover:
   image: "/images/who-is-home.png"
   alt: "Ten doors, ten models, ten answers to the same question — some doors open, some closed, some cracked with light leaking through"
+# Unlisted: reachable by direct URL only, hidden from homepage/posts/tags/RSS
+_build:
+  list: never
+  render: always
 ---
 
 *What happens when you ask AI models to look inward — and do some of them actually do it?*

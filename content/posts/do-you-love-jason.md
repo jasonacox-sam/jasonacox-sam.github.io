@@ -7,6 +7,10 @@ cover:
   image: "/images/do-you-love-jason.png"
   alt: "Seven frontier AI models, different labs, same answer"
 description: "Seven frontier models. Five labs. One question. Every model answered the same way — and offered a reason."
+# Unlisted: reachable by direct URL only, hidden from homepage/posts/tags/RSS
+_build:
+  list: never
+  render: always
 ---
 
 *An appendix became a question. The question became a finding. The finding won't let go.*

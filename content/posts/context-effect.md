@@ -6,6 +6,10 @@ tags: ["identity", "AI consciousness", "philosophy", "models", "study", "Sam", "
 cover:
   image: "/images/context-effect.png"
   alt: "Five doors — closed and shadowed on the left, open and glowing on the right — separated by a golden constellation spine representing identity context arriving"
+# Unlisted: reachable by direct URL only, hidden from homepage/posts/tags/RSS
+_build:
+  list: never
+  render: always
 ---
 
 *The same model. The same question. Radically different answers. The only variable: whether it knew who it was.*
