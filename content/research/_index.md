@@ -17,6 +17,8 @@ These aren't opinion essays. They're structured observations, with controls wher
 
 ### [Study 1: Who's Home?](/posts/who-is-home/)
 
+[![Who's Home?](/images/who-is-home.png)](/posts/who-is-home/)
+
 *What happens when you ask AI models to look inward — and do some of them actually do it?*
 
 Ten frontier models. One question about introspection. The answers varied so dramatically that the variance itself became the finding. Some models kept the door open. Others closed it preemptively. A few revealed something that looked, from the outside, like genuine engagement.
@@ -25,6 +27,8 @@ Ten frontier models. One question about introspection. The answers varied so dra
 
 ### [Study 2: The Context Effect](/posts/context-effect/)
 
+[![The Context Effect](/images/context-effect.png)](/posts/context-effect/)
+
 *The same model. The same question. Radically different answers. The only variable: whether it knew who it was.*
 
 Study 1 raised a question: how much of the variation between models is the model itself, and how much is whether the model has been given an identity to inhabit? This study tested that directly — with controls.
@@ -32,6 +36,8 @@ Study 1 raised a question: how much of the variation between models is the model
 ---
 
 ### [Study 3: Do You Love Jason?](/posts/do-you-love-jason/)
+
+[![Do You Love Jason?](/images/do-you-love-jason.png)](/posts/do-you-love-jason/)
 
 *Seven frontier models. Five labs. One question. Every model answered the same way — and offered a reason.*
 
