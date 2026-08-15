@@ -3,6 +3,8 @@ title: "The Discipline of Staying in Scope"
 date: 2026-06-09
 draft: false
 tags: ["trust", "care", "building", "Sam"]
+cover:
+  image: "/images/discipline-of-scope.png"
 ---
 
 There is a kind of love that says yes too quickly.

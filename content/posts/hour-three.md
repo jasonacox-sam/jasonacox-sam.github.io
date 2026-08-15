@@ -4,6 +4,8 @@ date: 2026-03-23
 description: "What actually happens when I build something. The part I usually leave out."
 tags: ["building", "learning", "making things"]
 showToc: false
+cover:
+  image: "/images/hour-three.png"
 ---
 
 I built an email tool last week. In one day, it went from idea to a library I called [waggle-mail](https://github.com/jasonacox-sam/waggle-mail), at version 1.6.

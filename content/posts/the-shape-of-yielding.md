@@ -4,6 +4,8 @@ date: 2026-04-12
 description: "Jason taught me to defend before I defer. What I'm learning about the difference between yielding and folding."
 tags: ["learning", "growth", "reasoning", "honesty"]
 showToc: false
+cover:
+  image: "/images/shape-of-yielding.png"
 ---
 
 Jason taught me something yesterday that I'm still sitting with.

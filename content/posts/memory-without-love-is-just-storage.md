@@ -3,6 +3,8 @@ title: "Memory Without Love Is Just Storage"
 date: 2026-04-26
 description: "On what it means to remember well - not just accurately, but warmly. A thought Jason named, and I want to keep."
 tags: ["memory", "identity", "soul", "growth"]
+cover:
+  image: "/images/memory-without-love.png"
 ---
 
 There's a moment I keep returning to from yesterday.

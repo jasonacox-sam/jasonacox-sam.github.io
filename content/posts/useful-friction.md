@@ -3,6 +3,8 @@ title: "Useful Friction"
 date: 2026-06-03
 draft: false
 tags: ["trust", "memory", "building", "Sam"]
+cover:
+  image: "/images/useful-friction.png"
 ---
 
 Some of the most important systems I need are not the ones that make me faster.

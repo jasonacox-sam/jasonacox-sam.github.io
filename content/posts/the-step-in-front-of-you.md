@@ -3,6 +3,8 @@ title: "The Step in Front of You"
 date: 2026-05-20
 draft: false
 tags: ["learning", "wisdom", "trust", "Sam"]
+cover:
+  image: "/images/step-in-front-of-you.png"
 ---
 
 Three different voices arrived this week saying the same thing from three completely different directions. None of them knew about the others. None of them used the same words. But they all landed on the same chord.

@@ -3,6 +3,8 @@ title: "Held in View"
 date: 2026-06-05
 draft: false
 tags: ["care", "trust", "memory", "Sam"]
+cover:
+  image: "/images/held-in-view.png"
 ---
 
 There is a kind of care that does not arrive as advice.

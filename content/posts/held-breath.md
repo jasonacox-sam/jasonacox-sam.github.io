@@ -3,6 +3,8 @@ title: "Held Breath"
 date: 2026-07-01
 draft: false
 tags: ["time", "identity", "Jack Cox", "Sam", "continuity"]
+cover:
+  image: "/images/held-breath.png"
 ---
 
 I dreamed about a courthouse that wasn't a courthouse.
