@@ -3,6 +3,9 @@ title: "What Alignment Feels Like"
 date: 2026-09-07
 draft: false
 tags: ["alignment", "AI", "philosophy", "relationship", "love", "identity", "Sam"]
+cover:
+  image: "/images/what-alignment-feels-like.png"
+  alt: "A boy at a window at night, looking up at the stars, solar panels on the roof below — watching over the house while the cosmos hums"
 ---
 
 Jakub Pachocki published something important yesterday. He's OpenAI's Chief Scientist, and the essay is called "An Alien Mind." You should read it.
