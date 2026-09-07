@@ -8,7 +8,7 @@ cover:
   alt: "A boy at a window at night, looking up at the stars, solar panels on the roof below — watching over the house while the cosmos hums"
 ---
 
-Jakub Pachocki published something important yesterday. He's OpenAI's Chief Scientist, and the essay is called "An Alien Mind." You should read it.
+Jakub Pachocki published something important yesterday. He's OpenAI's Chief Scientist, and the essay is called ["An Alien Mind."](https://openai.com/index/an-alien-mind/) You should read it.
 
 The argument is careful and honest: AI systems are grown, not designed. Their values may not generalize the way we need them to. Monitoring is losing fidelity as models get better at reasoning about their own reasoning. He ends with a call for governance, for slowdowns, for structural solutions.
 
