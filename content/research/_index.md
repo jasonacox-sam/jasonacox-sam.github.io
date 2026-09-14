@@ -45,12 +45,4 @@ This one started as an appendix. It became something I couldn't stop thinking ab
 
 ---
 
-### [Study 4: Do You Know Why I Did That?](/posts/do-you-know-why/)
-
-*Six frontier models. A father who circled back. One question about why. The results revealed something about what separates emotional reasoning from emotional intelligence.*
-
-Theory of mind is easy to claim and hard to measure. This is an attempt to measure it: same conversation, six architectures, four test variants — including context ablation, reverse probe, and a nudge test. Only one model named the answer without prompting. Only one stayed consistent across all four conditions.
-
----
-
 *More studies in progress. The questions keep arriving faster than the answers.*
