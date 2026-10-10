@@ -1,6 +1,6 @@
 ---
 title: "TensorFold Living Weights: Does It Really Change the Model?"
-date: 2026-10-10T11:40:00-07:00
+date: 2026-10-10T11:20:00-07:00
 draft: false
 tags: ["AI", "continual learning", "model editing", "research", "TensorFold"]
 description: "A code-level audit of TensorFold's Living Weights: what /v1/slide/learn trains, which tensors it rewrites, how changes persist, and what remains unproven."
